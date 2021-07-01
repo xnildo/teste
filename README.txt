@@ -1,5 +1,5 @@
-LIVRO DE RECEITAS
+             LIVRO DE RECEITAS
 
-Olá , Bem-Vindo ao me livro de receitas
+Olá , Bem-Vindos ao meu livro de receitas
 
-1-Strogonoff de Frango
+1º Strogonoff de Frango
